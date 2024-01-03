@@ -1,0 +1,330 @@
+.kindLogoWhite1Icon {
+  position: relative;
+  width: 8.38rem;
+  height: 2.63rem;
+  object-fit: cover;
+}
+.logo {
+  width: 8.88rem;
+  height: 3.75rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.asbjrnRosenlund,
+.emilMilang,
+.franckKazagui {
+  position: relative;
+  display: inline-block;
+  height: 1.19rem;
+}
+.asbjrnRosenlund {
+  font-weight: 600;
+  width: 8.88rem;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.emilMilang,
+.franckKazagui {
+  font-weight: 200;
+}
+.about1,
+.directors,
+.emilMilang,
+.franckKazagui {
+  width: 8.88rem;
+  flex-shrink: 0;
+}
+.directors {
+  height: 24.25rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mid);
+}
+.about1 {
+  position: relative;
+  font-weight: 200;
+  display: inline-block;
+  height: 1.19rem;
+  cursor: pointer;
+}
+.about,
+.navbar {
+  width: 8.88rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.navbar {
+  flex-shrink: 0;
+  gap: var(--gap-193xl);
+}
+.groupChild {
+  position: absolute;
+  height: 13.96%;
+  width: 100%;
+  top: 85.93%;
+  right: 0;
+  bottom: 0.11%;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-100);
+  opacity: 0.5;
+}
+.asbjrnRosenlund2 {
+  margin: 0;
+}
+.asbjrnRosenlund1 {
+  position: absolute;
+  top: 20.38rem;
+  left: 0.94rem;
+  display: inline-block;
+  width: 12.43rem;
+  height: 2.28rem;
+}
+.asbjorn11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 14.25rem;
+  height: 18.26rem;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  height: 39.85%;
+  width: 20.65%;
+  top: 60.15%;
+  right: 0.09%;
+  bottom: 0;
+  left: 79.26%;
+}
+.rectangleinsta,
+.rectangleprofile {
+  position: absolute;
+  height: 23.09%;
+  width: 27.63%;
+  top: 35.3%;
+  right: 40.58%;
+  bottom: 41.61%;
+  left: 31.79%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-100);
+  opacity: 0.5;
+}
+.rectangleinsta {
+  height: 4.84%;
+  width: 24.37%;
+  top: 0;
+  right: 0;
+  bottom: 95.16%;
+  left: 75.63%;
+}
+.asbjornrosenlund,
+.asbjrnRosenlundKnown {
+  position: absolute;
+  top: 0.88rem;
+  left: 54.31rem;
+  display: inline-block;
+  width: 12.81rem;
+  height: 2.25rem;
+}
+.asbjrnRosenlundKnown {
+  top: 21.31rem;
+  left: 24rem;
+  font-size: 1rem;
+  line-height: 1.56rem;
+  font-weight: 500;
+  width: 17rem;
+  height: 9.38rem;
+}
+.film7 {
+  position: absolute;
+  top: 34.19rem;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-100);
+  width: 30.69rem;
+  height: 22.25rem;
+}
+.film6 {
+  top: 0;
+  left: 21.94rem;
+  width: 29.5rem;
+  height: 19.13rem;
+}
+.film2,
+.film3,
+.film4,
+.film5,
+.film6 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-100);
+}
+.film5 {
+  top: 14rem;
+  left: 0;
+  width: 21.13rem;
+  height: 19.19rem;
+}
+.film2,
+.film3,
+.film4 {
+  top: 3.56rem;
+  left: 52.13rem;
+  width: 16.88rem;
+  height: 15.56rem;
+}
+.film2,
+.film3 {
+  top: 20.06rem;
+  left: 41.81rem;
+  width: 27.19rem;
+  height: 13.13rem;
+}
+.film2 {
+  top: 34.19rem;
+  left: 31.56rem;
+  width: 21.94rem;
+  height: 22.25rem;
+}
+.asbjorn1,
+.film1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.film1 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-100);
+  width: 21.13rem;
+  height: 13.19rem;
+}
+.asbjorn1 {
+  height: 100.71%;
+  width: 100%;
+  right: 0;
+  bottom: -0.71%;
+}
+.asbjorn,
+.films {
+  position: relative;
+}
+.films {
+  width: 69rem;
+  height: 56.44rem;
+  font-size: var(--font-size-xl);
+}
+.asbjorn {
+  background-color: var(--color-black);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xl) var(--padding-17xl) var(--padding-11xl) 0.63rem;
+  box-sizing: border-box;
+  gap: var(--gap-7xl);
+  height: 100vh;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-epilogue);
+}
+@media screen and (max-width: 1200px) {
+  .rectangleprofile {
+    width: 21.88rem;
+  }
+  .rectangleinsta {
+    width: 15.63rem;
+  }
+  .asbjornrosenlund {
+    text-align: left;
+  }
+  .film6 {
+    width: 25rem;
+  }
+  .film4 {
+    width: 31.25rem;
+  }
+  .film3 {
+    width: 21.25rem;
+  }
+  .film2 {
+    display: flex;
+    width: 15.63rem;
+  }
+  .films {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 960px) {
+  .logo {
+    width: auto;
+    align-self: unset;
+  }
+  .film7 {
+    display: flex;
+    width: 25rem;
+  }
+  .film6 {
+    display: flex;
+    width: 0;
+  }
+  .film5 {
+    display: flex;
+    width: 15.63rem;
+  }
+  .film2 {
+    display: none;
+  }
+  .film1,
+  .films {
+    display: flex;
+  }
+  .films {
+    width: 6.25rem;
+  }
+}
+@media screen and (max-width: 420px) {
+  .logo {
+    align-self: stretch;
+    width: auto;
+    height: 3.13rem;
+  }
+  .asbjrnRosenlund {
+    font-size: var(--font-size-3xs);
+  }
+  .emilMilang {
+    width: 8.88rem;
+  }
+  .about1,
+  .emilMilang,
+  .franckKazagui {
+    font-size: var(--font-size-3xs);
+  }
+  .navbar {
+    width: auto;
+    align-self: unset;
+    flex-direction: column;
+    gap: var(--gap-193xl);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .film2,
+  .film7 {
+    display: none;
+  }
+}

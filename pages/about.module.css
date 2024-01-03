@@ -1,0 +1,211 @@
+.kindLogoWhite1Icon {
+  position: relative;
+  width: 8.38rem;
+  height: 2.63rem;
+  object-fit: cover;
+}
+.logo {
+  height: 3.75rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.asbjrnRosenlund,
+.logo {
+  width: 8.88rem;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.asbjrnRosenlund,
+.emilMilang,
+.franckKazagui {
+  position: relative;
+  font-weight: 200;
+  display: inline-block;
+  height: 1.19rem;
+}
+.about2,
+.directors,
+.emilMilang,
+.franckKazagui {
+  width: 8.88rem;
+  flex-shrink: 0;
+}
+.directors {
+  height: 24.25rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mid);
+}
+.about2 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  height: 1.19rem;
+  cursor: pointer;
+}
+.about1,
+.navbar {
+  width: 8.88rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.navbar {
+  flex-shrink: 0;
+  gap: var(--gap-193xl);
+  z-index: 0;
+}
+.srenEngberg1 {
+  font-weight: 500;
+  font-family: var(--font-epilogue);
+}
+.srenEngberg {
+  margin: 0;
+}
+.span {
+  font-weight: 300;
+}
+.sekindfilm3 {
+  text-decoration: underline;
+}
+.sekindfilm1 {
+  color: inherit;
+}
+.kateKagawaProducerContainer,
+.srenEngbergCeoContainer,
+.thoravej242400Container {
+  position: relative;
+  line-height: 2.5rem;
+  display: inline-block;
+  width: 12.44rem;
+  height: 8.25rem;
+  flex-shrink: 0;
+}
+.kateKagawaProducerContainer,
+.thoravej242400Container {
+  width: 11.25rem;
+}
+.thoravej242400Container {
+  width: 9.81rem;
+  height: 8.31rem;
+}
+.kindLogoWhite2Icon {
+  position: relative;
+  width: 68.63rem;
+  height: 21.56rem;
+  object-fit: cover;
+}
+.about,
+.info {
+  display: flex;
+  flex-direction: row;
+}
+.info {
+  margin: 0 !important;
+  position: absolute;
+  top: 18.13rem;
+  left: 15.13rem;
+  width: 68.63rem;
+  height: 38.56rem;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 6.44rem;
+  z-index: 1;
+  font-size: var(--font-size-5xl);
+}
+.about {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-17xl);
+  box-sizing: border-box;
+  gap: var(--gap-7xl);
+  height: 100vh;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-epilogue);
+}
+@media screen and (max-width: 1200px) {
+  .kateKagawaProducerContainer,
+  .srenEngbergCeoContainer,
+  .thoravej242400Container {
+    font-size: var(--font-size-mini);
+  }
+  .kindLogoWhite2Icon {
+    display: none;
+    width: 50%;
+    height: 50%;
+  }
+  .info {
+    width: 75rem;
+    flex-direction: row;
+    gap: 3.13rem;
+    align-items: center;
+    justify-content: flex-start;
+  }
+}
+@media screen and (max-width: 960px) {
+  .logo {
+    width: auto;
+    align-self: unset;
+  }
+  .kateKagawaProducerContainer,
+  .srenEngbergCeoContainer,
+  .thoravej242400Container {
+    font-size: var(--font-size-3xs);
+  }
+  .info {
+    width: 31.25rem;
+    flex-direction: row;
+    gap: var(--gap-0);
+    padding-bottom: 9.38rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .logo {
+    align-self: stretch;
+    width: auto;
+    height: 3.13rem;
+  }
+  .asbjrnRosenlund {
+    font-size: var(--font-size-3xs);
+  }
+  .emilMilang {
+    width: 8.88rem;
+  }
+  .about2,
+  .emilMilang,
+  .franckKazagui {
+    font-size: var(--font-size-3xs);
+  }
+  .navbar {
+    width: auto;
+    align-self: unset;
+    flex-direction: column;
+    gap: var(--gap-193xl);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .info {
+    height: 31.25rem;
+    flex-direction: row;
+    gap: var(--gap-0);
+  }
+  .about {
+    flex-direction: column;
+  }
+}
