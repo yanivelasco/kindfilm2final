@@ -75,13 +75,93 @@ const Asbjorn = () => {
             commercial and fiction films first but that is not all to Asbjørn’s
             story.
           </div>
-          <div className={styles.film7} />
-          <div className={styles.film6} />
-          <div className={styles.film5} />
-          <div className={styles.film4} />
-          <div className={styles.film3} />
-          <div className={styles.film2} />
-          <div className={styles.film1} />
+          <div className={styles.film7} >
+          <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/73" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
+        </div>
+          <div className={styles.film6} >
+          <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/722" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
+        </div>
+          <div className={styles.film5} >
+          <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/723" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
+        </div>
+          <div className={styles.film4} >
+          <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/725" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
+        </div>
+          <div className={styles.film3} >
+          <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/721" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
+        </div>
+      
+          <div className={styles.film2} >
+          <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/72" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
+        </div>
+          
+          <div className={styles.film1} >
+          <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/74" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
+        </div>
+          
         </div>
       </div>
     </div>

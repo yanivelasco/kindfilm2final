@@ -1,6 +1,7 @@
 import { useCallback } from "react";
 import { useRouter } from "next/router";
 import styles from "./about.module.css";
+import Link from "next/link";
 
 const About = () => {
   const router = useRouter();
@@ -102,7 +103,11 @@ const About = () => {
           <p className={styles.srenEngberg}>Denmark</p>
         </div>
         <div className={styles.thoravej242400Container}>
-          <p className={styles.srenEngberg}>Instagram</p>
+          <p className={styles.srenEngberg}> Instagram
+          {/* <Link href="https://www.instagram.com/kind_film/" passHref>  <a target='_blank'>Instagram</a>  
+          </Link> */}
+          </p>
+          
           <p className={styles.srenEngberg}>Vimeo</p>
           <p className={styles.srenEngberg}>Linkedin</p>
         </div>

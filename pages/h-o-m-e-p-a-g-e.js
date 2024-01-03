@@ -58,19 +58,55 @@ const HOMEPAGE = () => {
               </p>
             </h2>
           </div>
-          <div className={styles.p1r1column2} />
+          <div className={styles.p1r1column2}   />
+            <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/750" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
         </div>
         <div className={styles.p1row2}>
-          <div className={styles.p1r2column1} />
-          <div className={styles.p1r2column2} />
+        <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/735" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
         </div>
         <div className={styles.p1row3}>
-          <div className={styles.p1r3column1} />
+        <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/776" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
         </div>
       </div>
       <div className={styles.p2row1Parent}>
         <div className={styles.p2row1}>
-          <div className={styles.p2r2} />
+        <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/775" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
           <div className={styles.p2r21}>
             <h1 className={styles.weProduceFilms}>
               We produce films, stills, content, activations and creative
@@ -79,7 +115,16 @@ const HOMEPAGE = () => {
           </div>
         </div>
         <div className={styles.p2r3}>
-          <div className={styles.p2r31} />
+          <iframe 
+              className={styles.screenshot20231218At0341}
+              
+              src="https://kind.slateapp.com/embed/clip/724" 
+              allow="autoplay" 
+              frameborder="0" 
+              scrolling="no"
+              allowfullscreen="true" 
+              style={{ width: '100%', height: '100%', border: 'none', position:'relative', overflow:'hidden' }}>
+            </iframe> 
           <div className={styles.p2r5}>
             <h1 className={styles.weAreKindContainer}>
               <p className={styles.weAreA}>{`We are kind & creative.`}</p>
